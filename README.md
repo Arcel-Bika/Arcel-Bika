@@ -3,7 +3,7 @@ Full Stack Developer | Python 🐍 and Dart 🎯<br>
 Graphic Designer and Motion Designer  🎥🎨<br>
 Dynamic and Open Student 📚<br>
   
-# Top Languages
+# Top Languages 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arcel-Bika&show_icons=true&theme=radical)](https://github.com/Arcel-Bika/github-readme-stats)
 
 # More about me
